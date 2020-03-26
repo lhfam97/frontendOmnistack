@@ -36,7 +36,7 @@ function Header() {
 
           <footer className="footerCard">
             <a href="https://api.whatsapp.com/send?phone=5579988073454">
-              mais info
+              Whatsapp
             </a>
           </footer>
         </div>
@@ -54,7 +54,7 @@ function Header() {
 
           <footer className="footerCard">
             <a href="https://api.whatsapp.com/send?phone=5579996336530">
-              mais info{" "}
+              Whatsapp{" "}
             </a>
           </footer>
         </div>
